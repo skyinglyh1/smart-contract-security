@@ -1,0 +1,20 @@
+1. https://ethfans.org/ajian1984/articles/1035
+
+2. https://blog.csdn.net/u011721501/article/details/80757811
+
+3. http://www.zijie.com/40105.html
+
+4. https://blog.slock.it/the-history-of-the-dao-and-lessons-learned-d06740f8cfa5
+
+5. IMPORTANT http://blockchain.unica.it/projects/ethereum-survey/attacks.html#simpledao
+
+6. https://pastebin.com/ejakDR1f
+
+7. solidity教程 http://www.tryblockchain.org/blockchain-solidity-assembly.html
+
+8. 安全分析工具
+
+https://consensys.github.io/smart-contract-best-practices/security_tools/
+
+9. 在线健全分析工具 -- 效果不太明显
+https://securify.chainsecurity.com/
